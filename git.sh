@@ -9,5 +9,5 @@ rm git.sh
 git init
 git add .
 git commit -m 'update'
-git remote add origin git@github.com:terro/terro.github.com.git
+git remote add origin git@github.com:Ethanol/ethanol.github.com.git
 git push -f
