@@ -10,7 +10,7 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://multisim.me/</id>
  <author>
-   <name>Linghua Zhang</name>
+   <name>CubicStone Wei</name>
    <email>cubicstonewei@gmail.com</email>
  </author>
 
