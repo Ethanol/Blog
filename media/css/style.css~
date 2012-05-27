@@ -32,8 +32,8 @@ blockquote p{margin:0;padding:0;}
 #container{width:600px;margin:2em auto;display:block;padding:0 2em;}
 .content{font-size:16px;line-height:24px;margin-bottom: 2em;}
 .content img{max-width:600px;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px;}
-.post a{color:#0000bb;text-decoration:none;}
-.title a{color:#0000bb;text-decoration:none;}
+.post a{color:#dd0000;text-decoration:none;}
+.title a{color:#dd0000;text-decoration:none;}
 #tag_cloud{margin-bottom: 1em;}
 #tag_cloud a:hover{color:#333333 !important;text-decoration:none;}
 .listing-item,.listing-seperator{list-style-type:none;}
