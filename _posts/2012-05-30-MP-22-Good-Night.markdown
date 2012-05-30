@@ -1,53 +1,81 @@
 ---
-title: Moto Perpetuo 21 静止
+title: Moto Perpetuo 22 晚安
 layout: post
 guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
 tags:
   - Moto Perpetuo
 ---
 
-__静止 / 花儿__  
-__< [幸福的旁边](http://music.douban.com/subject/1404476/) > 1999__  
-__静止 / 杨乃文__  
-__< [Silence](http://music.douban.com/subject/1891594/) > 1999__  
-__静止 / 江美琪__  
-__< [美乐地 Melody](http://music.douban.com/subject/1412397/) > 2003__  
+__晚安 / 自然卷__  
+__< [破卷而出](http://music.douban.com/subject/3133543/) > 2008__  
+__晚安晚安 / 魏如萱__  
+__< [不允许哭泣的场合](http://music.douban.com/subject/6870954/) > 2011__  
 
-这首歌最早是豆瓣给我放的，彼时我还不知道杨乃文这个人，觉得像是个大妈，也就没怎么理。有一次很[Scoopguo](http://scoopguo.com)聊起了花儿，才知道这歌是朋克花儿写的，回来再听，味道完全不一样。
+晚安这个很多人都唱过，但是味道完全不一样。同样是过去的自然卷，魏如萱自从变成苦逼小女生之后唱的歌也越来越苦情了，有几次真的听这首有想哭的感觉；而奇哥的老男人风依旧还在，倒像是哄孩子睡觉。自然卷写词一向很无赖，这首歌也是，不禁让人想起了曾哥的《Baby Sister》。
 
-当年花儿也写过这种歌啊。没有听过花儿早期的歌，听到他们已经是洗刷刷了。花儿带给我的，就是在KTV无聊的时候会唱一下穷开心，在实验室刷试管的时候唱一下洗刷刷，没了。这个歌的歌词写得也不错，不知道大张伟再听到这首歌怎么想。
+虽然我这篇是早上写的。
 
-这就是所谓的
+<embed src="http://www.xiami.com/widget/0_2131423/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
->时光不经意流逝   
->像颗在耗费的电池  
->我感到有点失落 无法抑制  
+<embed src="http://www.xiami.com/widget/0_1770543809/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
-时光啊。时光。啊。
+>晚安 / 自然卷  
+>轻轻握著你的手  
+>一起倒数三秒鐘  
+>墙角的壁虎在发抖  
 
-江美琪（另外一个被我当作大妈的歌手）也翻唱过这首歌，你更喜欢哪一个？
+>一天就要过去了  
+>外面依然轰隆隆  
+>数著你的呼吸  
+>我入睡了  
 
-<embed src="http://www.xiami.com/widget/0_381947/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+>梦裡有你有我  
+>还有一些好朋友  
+>他们说的话  
+>我都听得懂  
 
-<embed src="http://www.xiami.com/widget/0_379176/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+>Good night Good night 晚安  
+>Gute Nacht Gute Nacht 就是晚安  
+>おやすみなさい 还是晚安  
+>（韩文）一样是晚安  
+>Bonne nuit 晚安晚安  
+>Selamat malam 说声晚安  
 
-<embed src="http://www.xiami.com/widget/0_117247/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+>轻轻握著你的手  
+>壁虎也都沉睡了  
+>偷偷做个鬼脸  
+>伴你笑著入梦   
 
->静止  
->词曲 / 大张伟  
->寂寞围绕著电视  
->垂死坚持 在两点半消失   
->多希望有人来陪我 度过末日   
->空虚敲打著意志  
->彷彿这时间已静止   
->我怀疑人们的生活 有所掩饰   
->嗯 垂死坚持   
->嗯 已静止  
->冲动在瞬间消失 梦被稀释   
->不停转动著手指  
->我幻想美丽的生活   
->何时开始 时光不经意流逝   
->像颗在耗费的电池  
->我感到有点失落 无法抑制  
->嗯 垂死坚持   
->嗯 已静止  
+---
+
+>晚安晚安 / 魏如萱  
+>现在几点了　你在做什么呢  
+>我们有多久　没有说话了呢  
+>好像听见你在笑　今天有没有吃饱  
+>刚洗完澡　玩玩猫　还是已经睡着  
+>好像闻到你味道　看看以前拍的照  
+>不知道你现在好不好　  
+>有没有少了点烦恼  
+>mon Cheri tu me manques,  
+>Bonne nuit,bisou bisou  
+>晚安　晚安　晚安　你听不听得到  
+>晚安　晚安　好想听你说声晚安  
+>晚安　晚安　还是一样想念你  
+>晚安　你会不会出现在我的梦里  
+
+>现在几点了　你在做什么呢  
+>我们有多久　没有说话了呢  
+>好像闻到你味道　今天有没有吃饱  
+>不知道你现在好不好　  
+>有没有少了点烦恼  
+>mon Cheri,tu me manques,     
+>Bonne nuit,bisou bisou     
+>晚安　晚安　晚安　你听不听得到  
+>晚安　晚安　好想听你说声晚安  
+>晚安　晚安　还是一样想念你  
+>晚安　你会不会出现在我的梦里  
+>晚安　晚安　晚安　你听不听得到  
+>晚安　晚安　好久没有和你晚安  
+>晚安　晚安　希望你都好好的  
+>晚安　我要跑去你的梦里找你说  
+>晚安   
