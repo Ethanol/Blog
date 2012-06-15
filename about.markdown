@@ -3,6 +3,14 @@ title: about
 layout: page
 ---
 
-帝都农民工。
-还不是土博士。
+帝都第一男子技工学校农民工专业本科在读。
+
+爱好是男的，性别您自己看着办。请理智勾搭。
+
+>[我的饭否](http://fanfou.com/Ethanol)  
+>[我的豆娘](http://www.douban.com/people/Ethanol/)  
+>我的G妹 cubicstonewei 爱忒 gmail.com  
+>我的你呢 路漫漫其修远兮，不拖累你我还是一个人过吧  
+
+
 
