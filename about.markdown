@@ -9,7 +9,7 @@ layout: page
 
 >[我的饭否](http://fanfou.com/Ethanol)  
 >[我的豆娘](http://www.douban.com/people/Ethanol/)  
->我的G妹 cubicstonewei 爱忒 gmail.com  
+>我的基妹 cubicstonewei 爱忒 gmail.com  
 >我的你呢 路漫漫其修远兮，不拖累你我还是一个人过吧  
 
 
