@@ -5,7 +5,9 @@ layout: page
 
 帝都第一男子技工学校农民工专业本科在读。
 
-爱好是男的，性别您自己看着办。请理智勾搭。
+没前途的预备博士生。
+
+一只傲娇老娘受。请理智勾搭。
 
 >[我的饭否](http://fanfou.com/Ethanol)  
 >[我的豆娘](http://www.douban.com/people/Ethanol/)  
