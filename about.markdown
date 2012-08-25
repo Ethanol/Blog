@@ -7,12 +7,11 @@ layout: page
 
 没前途的预备博士生。
 
-一只傲娇老娘受。请理智勾搭。
+正在经历一段注定要结束的故事。可是，不是所有的故事都要结束的么。
 
 >[我的饭否](http://fanfou.com/Ethanol)  
 >[我的豆娘](http://www.douban.com/people/Ethanol/)  
 >我的基妹 cubicstonewei 爱忒 gmail.com  
->我的你呢 路漫漫其修远兮，不拖累你我还是一个人过吧  
 
 
 
