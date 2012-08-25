@@ -13,6 +13,8 @@ __< [佛跳墙](http://music.douban.com/subject/6791313/) > 2011__
 
 我对着自己开了一枪，biubiubiu。这是三枪。
 
+<embed src="http://www.xiami.com/widget/0_1770436444/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
 >我对自己开了一枪  
 >词曲 / 戴佩妮  
 
