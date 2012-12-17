@@ -17,8 +17,8 @@ __< [十年一刻](http://music.douban.com/subject/4923069/) > 2010__
 
 <embed src="http://www.xiami.com/widget/0_1769658626/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
 
->红鞋女孩 / 苏打绿
->词曲 / 陈大慰
+>红鞋女孩 / 苏打绿  
+>词曲 / 陈大慰  
 
 >她款款飘来黑裙摇曳着   
 >韵律般踩着轻盈的脚步   
