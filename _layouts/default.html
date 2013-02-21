@@ -15,6 +15,16 @@
     <script type="text/javascript">
       hljs.initHighlightingOnLoad();
     </script>
+    <script type="text/javascript">
+function mouseOver()
+{
+document.getElementById('b1').src ="/media/images/logo.png"
+}
+function mouseOut()
+{
+document.getElementById('b1').src ="/media/images/logo2.png"
+}
+</script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -35,9 +45,15 @@
       <div id="main" role="main">
         <header>
         <!--<h1><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>-->
-	<a href="http://multisim.me" title="水渍">
-	<center>
-	<img src="/media/images/logo.png" alt="水渍" height="72px" width="128px">
+
+
+  <a href="http://multisim.me" title="水渍" 
+onmouseover="mouseOver()" onmouseout="mouseOut()">
+<center>
+<img alt="水渍" src="/media/images/logo2.png" height="72px" width="128px" />
+</a>
+
+
   <br><br>
 </center>
 	</a>
