@@ -4,7 +4,7 @@ layout: post
 guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
 tags:
   - 上海
-  - Spiritual
+  - 路
 ---
 
 本来是想写一写Shewanella的，但是似乎有些更重要的，却不知道从何说起。
