@@ -199,6 +199,6 @@ tags:
 
 贴两张效果图
 
-![Beijing](/media/images/beijing.png）
+![Beijing](/media/images/beijing.png)
 
-![Lanzhou](/media/images/lanzhou.png）
+![Lanzhou](/media/images/lanzhou.png)
