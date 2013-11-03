@@ -1,0 +1,12 @@
+---
+title: 文献阅读笔记 1
+layout: post
+guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
+tags:
+  - 文献阅读笔记
+  
+---
+
+#### 1 The Dynamics of Signaling as a Pharmacological Target
+> Behar, M., Barken, D., Werner, S. L., & Hoffmann, A. (2013). The Dynamics of Signaling as a Pharmacological Target. Cell, 155(2), 448–461. doi:10.1016/j.cell.2013.09.018
+
