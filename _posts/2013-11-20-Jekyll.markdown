@@ -1,0 +1,30 @@
+---
+title: 该死的Jekyll
+layout: post
+guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
+tags:
+  - 文献阅读笔记
+  
+---
+
+OSX升级到了10.9，Ruby也跟着升级了。然后博客就挂了。
+
+求助[Terro](http://dangfan.me)大神，可是他早就从Jekyll转移到了Pelican又转移到了我不知道是神马东西的平台，一番调试无果，迁移到Pelican又不成功，所以又回头找解决方案。
+
+试了rvm，不成。装了各种奇怪的程序包，也不成。看见Chrome上的Miku对我卖萌，我只想掐死她。
+
+后来改了一句Terro同学当年写的git.sh，把一句
+> bundle exec ejekyll --pygments
+
+改成了
+> jekyll build
+
+TMD就好了！！！
+
+好了！！！
+
+Jekyll你更新了都不告诉我么！！！
+
+这种智商怎么读博士！！！
+
+摔！！！
