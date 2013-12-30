@@ -1,0 +1,28 @@
+---
+title: 文献阅读笔记 2
+layout: post
+guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
+tags:
+  - 文献阅读笔记
+  
+---
+
+#### 5 Stochastic protein expression in individual cells at the single molecule level
+> Cai, L., Friedman, N., & Xie, X. S. (2006). Stochastic protein expression in individual cells at the single molecule level. Nature, 440(7082), 358–62. doi:10.1038/nature04599
+
+这是篇很古老的文章了，讲的是一种细胞内单分子水平的表达情况的检测方法。方法很有趣，但是对实验设备的要求也好高。
+
+#### 6 Senescence Is a Developmental Mechanism that Contributes to Embryonic Growth and Patterning
+> Storer, M., Mas, A., Robert-Moreno, A., Pecoraro, M., Ortells, M. C., Di Giacomo, V., … Keyes, W. M. (2013). Senescence Is a Developmental Mechanism that Contributes to Embryonic Growth and Patterning. Cell, 155(5), 1119–1130. doi:10.1016/j.cell.2013.10.041
+
+#### 7 Programmed Cell Senescence during Mammalian Embryonic Development
+>Muñoz-Espín, D., Cañamero, M., Maraver, A., Gómez-López, G., Contreras, J., Murillo-Cuesta, S., … Serrano, M. (2013). Programmed Cell Senescence during Mammalian Embryonic Development. Cell. doi:10.1016/j.cell.2013.10.019
+
+这两篇是我最近死磕的两篇，发表在同一期的《Cell》上，主要讲述的是细胞衰老机制在胚胎发育中的作用。发育真的是一件神奇的事情，而两篇的研究线路也非常相似，这种「范式」也许已经是行规了。
+
+另外，养耗子真麻烦。
+
+#### 8 Senescent cells harbour features of the cancer epigenome
+> Cruickshanks, H. a., McBryan, T., Nelson, D. M., VanderKraats, N. D., Shah, P. P., van Tuyn, J., … Adams, P. D. (2013). Senescent cells harbour features of the cancer epigenome. Nature Cell Biology, 15(12), 1495–1506. doi:10.1038/ncb2879
+
+细胞衰老与癌症的表观基因组的关系。说得不清不白的，不好玩。
