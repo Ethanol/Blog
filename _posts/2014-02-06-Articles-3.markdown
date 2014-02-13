@@ -1,0 +1,43 @@
+---
+title: 文献阅读笔记 3
+layout: post
+guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
+tags:
+  - 文献阅读笔记
+  
+---
+
+
+#### 10 Water-induced finger wrinkles do not affect touch acuity or dexterity in handling wet objects
+> Haseleu, J., Omerbašić, D., Frenzel, H., Gross, M., & Lewin, G. R. (2014). Water-induced finger wrinkles do not affect touch acuity or dexterity in handling wet objects. PloS one, 9(1), e84949. doi:10.1371/journal.pone.0084949
+
+浸水的手指并不会让拿东西更容易。
+
+这也可以啊？！
+
+统计学拯救自然科学。
+
+---
+#### 11 Performing mathematical operations with metamaterials
+> Silva, A., Monticone, F., Castaldi, G., Galdi, V., Alù, A., & Engheta, N. (2014). Performing mathematical operations with metamaterials. Science (New York, N.Y.), 343(6167), 160–3. doi:10.1126/science.1242818
+
+超材料用来做数学计算。利用光学（电磁）性质对光信号进行微分积分etc. 反应速度快是优势，不过还没做出来……反正我不觉得这会是一个像晶体管一样划时代的技术。
+
+作者说可以做图像处理。以后单反人士就要背着一堆超材料滤镜勾搭妹纸了么？
+
+#### 12 Ice lubrication for moving heavy stones to the Forbidden City in 15th- and 16th-century China
+> Li, J., Chen, H., & Stone, H. a. (2013). Ice lubrication for moving heavy stones to the Forbidden City in 15th- and 16th-century China. Proceedings of the National Academy of Sciences of the United States of America, 110(50), 20023–7. doi:10.1073/pnas.1309319110
+
+本文研究了在建造紫禁城的时候，利用冰运输石块的原理，以及人类建造史对抗摩擦的种种方法。这段历史我早就听闻，本文主要是为了……（给西方观众猎奇？）
+
+作者之一是清华大学摩擦学实验室的，原来你们还搞考古啊。
+
+#### 13 Bidirectional developmental potential in reprogrammed cells with acquired pluripotency
+Obokata, H., Sasai, Y., Niwa, H., Kadota, M., Andrabi, M., Takata, N., … Wakayama, T. (2014). Bidirectional developmental potential in reprogrammed cells with acquired pluripotency. Nature, 505(7485), 676–680. doi:10.1038/nature12969
+
+最近的一个大发现。细胞蘸醋，越蘸越有。
+
+不过也有人质疑其实验的科学性，尽管如此，这也为我们提供了一条细胞重编程的新路。
+
+
+
