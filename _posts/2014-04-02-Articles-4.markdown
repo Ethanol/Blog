@@ -1,0 +1,46 @@
+---
+title: 文献阅读笔记 4
+layout: post
+guid: urn:uuid:ac28bead-627d-4d6d-8f78-d981730908b8
+tags:
+  - 文献阅读笔记
+  
+---
+
+
+#### 14 Geriatric muscle stem cells switch reversible quiescence into senescence
+> Sousa-Victor, P., Gutarra, S., García-Prat, L., Rodriguez-Ubreva, J., Ortet, L., Ruiz-Bonilla, V., … Muñoz-Cánoves, P. (2014). Geriatric muscle stem cells switch reversible quiescence into senescence. Nature. doi:10.1038/nature13013
+
+肌肉损伤后修复机制与细胞衰老和机体衰老的关系，尤其是p16INK4a的作用。
+
+呐，和我关系不大。
+
+#### 15 Designing Collective Behavior in a Termite-Inspired Robot Construction Team
+> Werfel, J., Petersen, K., & Nagpal, R. (2014). Designing Collective Behavior in a Termite-Inspired Robot Construction Team. Science, 343(6172), 754–758. doi:10.1126/science.1245842
+
+利用白蚁的生产规则设计机器人分布式协作的程序。这种无中心的网络可以获得很多意想不到的效果，也可以认为它就是一个实现了的简单的机器人自动机。
+
+#### 16 Secreting and Sensing the Same Molecule Allows Cells to Achieve Versatile Social Behaviors
+> Youk, H., & Lim, W. a. (2014). Secreting and Sensing the Same Molecule Allows Cells to Achieve Versatile Social Behaviors. Science, 343(6171), 1242782–1242782. doi:10.1126/science.1242782
+
+本文构建了一种合成的酵母，接受和发出相同的化学信号。通过内部网络的变化实现了多种“社交”行为，其实是一种统计意义上的群体行为。
+
+#### 17 Control Profiles of Complex Networks
+> Ruths, J., & Ruths, D. (2014). Control Profiles of Complex Networks. Science, 343(6177), 1373–1376. doi:10.1126/science.1242063
+
+复杂网络的控制profile(宏观特性？)。提出了一种新的描述可控性的方法。控制理论和网络的杂交。
+
+#### 18 Drugging the p53 pathway: understanding the route to clinical efficacy
+> Hoe, K. K., Verma, C. S., & Lane, D. P. (2014). Drugging the p53 pathway: understanding the route to clinical efficacy. Nature Reviews. Drug Discovery, 13(3), 217–36. doi:10.1038/nrd4236
+
+一篇大综述。关于p53通路治疗癌症的方法。有很多有趣的可以做的方面。果然临床才是生命科学的未来。
+
+#### 19 p53-Based cyclotherapy: exploiting the “guardian of the genome” to protect normal cells from cytotoxic therapy
+> Rao, B., Lain, S., & Thompson, a M. (2013). p53-Based cyclotherapy: exploiting the “guardian of the genome” to protect normal cells from cytotoxic therapy. British Journal of Cancer, 109(12), 2954–8. doi:10.1038/bjc.2013.702
+
+Cyclotherapy这个词很有趣。这篇文章也颇多巧思。一些工程性、经验性的设计在解决实际问题的时候比基于复杂理论的方法更有效。所谓「匠人思维」。
+
+#### 20 The Parable of Google Flu: Traps in Big Data Analysis
+> Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). The Parable of Google Flu: Traps in Big Data Analysis. Science, 343(6176), 1203–1205. doi:10.1126/science.1248506
+
+批判大数据。
