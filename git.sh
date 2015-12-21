@@ -1,5 +1,5 @@
 #!/bin/bash
-git add .
+git add . -all
 git commit -a -m 'update'
 git push
 jekyll build
@@ -9,5 +9,5 @@ cd _site
 git init
 git add .
 git commit -m 'update'
-git remote add origin2 git@github.com:Ethanol/ethanol.github.com.git
+git remote add origin git@github.com:Ethanol/ethanol.github.com.git
 git push -f
