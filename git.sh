@@ -1,8 +1,10 @@
 #!/bin/bash
-git add . --all
+git add .
 git commit -a -m 'update'
 git push
+echo '!!!'
 jekyll build
+echo '!!!'
 cd _site
 #rm Gem*
 #rm git.sh
