@@ -10,9 +10,9 @@ layout: page
 我不是一个称职的科研工作者。  
 我甚至不是一个称职的人渣。
 
->[我的饭否](http://fanfou.com/Ethanol)  
-
 >[我的豆娘](http://www.douban.com/people/Ethanol/)  
+
+>[我的饭否](http://fanfou.com/Ethanol)  
 
 >[我的性浪微勃](http://weibo.com/cubicstone)   
 
