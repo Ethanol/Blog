@@ -3,7 +3,7 @@ git add .
 git commit -a -m 'update'
 git push
 echo '!!!'
-bundle exec  ejekyll --pygments
+bundle exec  ejekyll
 #jekyll build
 echo '!!!'
 cd _site
