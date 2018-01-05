@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "3.7.0"
 gem "jekyll_ext"
-gem "liquid", "~> 2.5.4"
+gem "liquid", "~> 4.0"
 gem "rdiscount"
